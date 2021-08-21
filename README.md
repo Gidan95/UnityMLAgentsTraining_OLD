@@ -8,6 +8,7 @@ The player is a cube that has to touch the cylinder placed in the center of one 
 #### Results
 Config file name | Trainer | Mean reward
 ---------------- | ------- | ------------------------
-To be completed | poca | 0.6342
-To be completed | sac  | 0.6038
-To be completed | ppo  | 0.5426
+To be completed | poca | 0.6342*
+To be completed | sac  | 0.6038*
+To be completed | ppo  | 0.5426*
+* this values are not correct because the model has been trained with faster floor switch times. I will update them as soon as possible
