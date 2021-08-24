@@ -15,4 +15,4 @@ To be completed | ppo  | 0.5426*
 \* value is not correct because the model has been trained with faster floor switch times. I will update it as soon as possible
 
 #### Observations
-I think I can achieve much better training results by using stacked vectors so that the agent can remember previous states and manage better the yellow zones. For example if the agent is in a yellow zone it can understand if it has time to reach the objective or not
+~~I think I can achieve much better training results by using stacked vectors so that the agent can remember previous states and manage better the yellow zones. For example if the agent is in a yellow zone it can understand if it has time to reach the objective or not~~ Tested but the mean reward increases much more slowly compared to no stacked vectors at all 
