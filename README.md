@@ -8,7 +8,7 @@ The player is a cube that has to touch the cylinder placed in the center of one 
 #### Results
 Config file name | Trainer | Mean reward
 ---------------- | ------- | ------------------------
-To be completed | poca | 0.6342*
+To be completed | poca | 0.656
 To be completed | sac  | 0.6038*
 To be completed | ppo  | 0.5426*
 
