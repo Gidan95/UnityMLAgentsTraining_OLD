@@ -10,7 +10,7 @@ Config file name | Trainer | Mean reward
 ---------------- | ------- | ------------------------
 To be completed | poca | 0.656
 To be completed | sac  | 0.6038*
-To be completed | ppo  | 0.5426*
+To be completed | ppo  | 0.4343
 
 \* value is not correct because the model has been trained with faster floor switch times. I will update it as soon as possible
 
